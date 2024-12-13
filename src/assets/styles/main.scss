@@ -1,0 +1,12 @@
+@import "colors";
+@import "fonts";
+@import "typography";
+@import "global";
+@import "buttons";
+:root {
+  //Font family
+  --font-family-1: "Trispace", sans-serif;
+}
+html {
+  font-size: 10px;
+}

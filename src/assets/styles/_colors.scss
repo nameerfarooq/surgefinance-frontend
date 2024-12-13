@@ -1,0 +1,36 @@
+:root {
+  --redi: red;
+  --greeni: green;
+}
+
+.lightMode {
+  --primaryColor: var(--redi);
+}
+.darkMode {
+  --primaryColor: #161a1e;
+  --primaryDarkColor: #181d23;
+  --primaryLightColor: #1e262d;
+  --secondaryColor: #2be8a3;
+  --grayColor: #304050;
+  --grayLightColor: #4d5c6c;
+  --grayDarkColor: #1e252d;
+  --textLight: #d9d9d9;
+  --textDark: #4b5157;
+  --blackColor: #000;
+  --whiteColor: #fff;
+  --iconBackground: #42566a;
+  --iconBackgroundHover: #556d85;
+}
+.lightMode {
+  --primaryColor: #161a1e;
+  --primaryDarkColor: #181d23;
+  --primaryLightColor: #1e262d;
+  --secondaryColor: #2be8a3;
+  --grayColor: #304050;
+  --grayLightColor: #4d5c6c;
+  --grayDarkColor: #1e252d;
+  --textLight: #d9d9d9;
+  --textDark: #4b5157;
+  --blackColor: #000;
+  --whiteColor: #fff;
+}
